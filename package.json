@@ -1,0 +1,16 @@
+{
+  "name": "CrampedRoomOfDeath",
+  "uuid": "9cdf97c1-317c-4182-8e31-a5f802f57a04",
+  "creator": {
+    "version": "3.7.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5",
+    "@typescript-eslint/eslint-plugin": "^1.13.0",
+    "@typescript-eslint/parser": "^1.13.0",
+    "eslint": "^6.2.2",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^2.2.1"
+  }
+}
